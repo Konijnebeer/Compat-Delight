@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "fabric:milk"
+    },
+    {
+      "item": "brewinandchewin:flaxen_cheese_wedge"
+    },
+    {
+      "tag": "fabric:pasta"
+    },
+    {
+      "item": "expandeddelight:ground_salt"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:mac_and_cheese"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}

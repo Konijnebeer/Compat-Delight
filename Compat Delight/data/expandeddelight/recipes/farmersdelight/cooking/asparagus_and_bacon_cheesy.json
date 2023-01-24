@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    [
+      {
+        "tag": "fabric:raw_pork"
+      },
+      {
+        "tag": "c:raw_pork"
+      }
+    ],
+    {
+      "tag": "fabric:crops/asparagus"
+    },
+    {
+      "tag": "fabric:crops/onion"
+    },
+    {
+      "item": "brewinandchewin:flaxen_cheese_wedge"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_and_bacon_cheesy"
+  },
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 200
+}
