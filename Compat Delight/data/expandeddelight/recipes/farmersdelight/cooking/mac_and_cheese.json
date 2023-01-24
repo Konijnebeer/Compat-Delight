@@ -2,16 +2,16 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "tag": "fabric:milk"
+      "tag": "c:milk"
     },
     {
       "item": "brewinandchewin:flaxen_cheese_wedge"
     },
     {
-      "tag": "fabric:pasta"
+      "tag": "c:pasta"
     },
     {
-      "item": "expandeddelight:ground_salt"
+      "tag": "c:salt_dusts"
     }
   ],
   "result": {
