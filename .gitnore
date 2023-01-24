@@ -1,1 +1,1 @@
-git update-index --skip-worktree <file-list>
+git update-index --skip-worktree <.DS_Store>
