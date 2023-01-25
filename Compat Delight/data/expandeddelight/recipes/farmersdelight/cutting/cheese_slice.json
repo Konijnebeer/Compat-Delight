@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:air"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  },
+  "result": [
+    {
+      "item": "expandeddelight:cheese_slice",
+      "count": 4
+    }
+  ]
+}
